@@ -1,4 +1,8 @@
 # project-vue-2110
+vue</br>
+vuetify</br>
+vue-router</br>
+</br>
 
 ## Project setup
 ```
