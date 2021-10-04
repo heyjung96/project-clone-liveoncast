@@ -59,7 +59,9 @@
 
 <script>
 export default {
-
+	data: () => ({
+		language:['한국어','english','日本語']
+	}),
 }
 </script>
 

@@ -10,6 +10,6 @@ export default new Router({
     mode: 'history',
 	routes:[ 
 		{path: "/",name:"home",component: home},
-		{path: "/watch",name:"watch",component: watch, props:true},
+		{path: "/watch/:castCode",name:"watch",component: watch, props:true},
 	]
 })

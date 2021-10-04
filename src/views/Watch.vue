@@ -9,6 +9,9 @@
 				<v-card-title>
 					Player
 				</v-card-title>
+				<v-card-subtitle>
+					안녕, {{ $route.params.castCode }}
+				</v-card-subtitle>
 			</v-card>
 			<!-- 플레이어 영역 END -->
 

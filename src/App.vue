@@ -26,8 +26,5 @@ export default {
 		Header,
 		Footer
 	},
-	data: () => ({
-		language:['한국어','english','日本語']
-	}),
 };
 </script>
