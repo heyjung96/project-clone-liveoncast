@@ -4,11 +4,11 @@
 		<Header />
 		<!-- Hedader 영역 END -->
 
-		<!-- MAIN 영역 START -->
+		<!-- MAIN 컨텐츠 영역 START -->
 		<v-main class='mx-5'>
 			<router-view/>
 		</v-main>
-		<!-- MAIN 영역 END -->
+		<!-- MAIN 컨텐츠 영역 END -->
 		
 		<!-- Footer 영역 START -->
 		<Footer />
